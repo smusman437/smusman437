@@ -25,10 +25,11 @@
 
 2,500+ contributions in the last year across commits (75%), pull requests, and **code review (12%)** — I review as much as I ship. Led modernization to TypeScript, Prisma, and tRPC (~40% fewer type-related production bugs) and standardized Turborepo CI/CD (35% faster deploys), while mentoring 4 engineers.
 
-## 📊 GitHub stats
+## 📈 Activity
 
-![Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=smusman437&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smusman437&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=smusman437&theme=tokyonight&hide_border=true&area=true)
+
+> 2,500+ contributions in the last year across commits, pull requests, and code review — including healthcare platform work at [@expedientvms](https://github.com/expedientvms) and [@caremerge](https://github.com/caremerge).
 
 ## 📫 Reach me
 
