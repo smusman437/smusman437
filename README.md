@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Usman 👋
 
-**Senior Full Stack Engineer** building healthcare technology platforms with **React, Next.js, Node.js, TypeScript, and AWS**.
+**Senior Full Stack Engineer** with **6+ years** building healthcare technology platforms with **React, Next.js, Node.js, TypeScript, and AWS**.
 
 - 🏥 **Currently:** [goIcon](https://login.goicon.dev/login/) at [@caremerge](https://github.com/caremerge) — senior-living engagement platform for the US healthcare market
 - 🏗️ **Previously:** 4 years as architecture owner on **Expedient VMS** ([@expedientvms](https://github.com/expedientvms)) — vendor-neutral healthcare staffing platform
