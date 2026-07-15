@@ -3,7 +3,7 @@
 **Senior Full Stack Engineer** with **6+ years** building healthcare technology platforms with **React, Next.js, Node.js, TypeScript, and AWS**.
 
 - 🏥 **Currently:** [goIcon](https://login.goicon.dev/login/) at [@caremerge](https://github.com/caremerge) — senior-living engagement platform for the US healthcare market
-- 🏗️ **Previously:** 4 years as architecture owner on **Expedient VMS** ([@expedientvms](https://github.com/expedientvms)) — vendor-neutral healthcare staffing platform
+- 🏗️ **Previously:** 5 years as architecture owner on **Expedient VMS** ([@expedientvms](https://github.com/expedientvms)) — vendor-neutral healthcare staffing platform
 - 🤖 **AI in production:** Gemini support chatbot (Vercel AI SDK) + OpenAI features that cut users' manual work **~60%**
 - ☁️ **Platform scale:** AWS async infrastructure (Lambda + SQS dispatcher-worker fan-out) that absorbed **~3x traffic growth** without outage
 
